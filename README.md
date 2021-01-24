@@ -1,3 +1,5 @@
+## EEG Signal Processing towards Neuromarketing
+
 * João Carlos Ramos Gonçalves de Matos
 * Maria Jorge Miranda Loureiro
 
